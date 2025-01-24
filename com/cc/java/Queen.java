@@ -4,7 +4,7 @@ public class Queen extends HoneyBee{
 
     @Override
     public String doYourJob(){
-        return "I'm a Queen, any questions?";
+        return "I'm the one and only Queenbee!, any questions?";
     }
 
     @Override
